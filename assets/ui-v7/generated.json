@@ -1,0 +1,21 @@
+{
+  "generator": "tools/frontier/generate_ui_badges.py",
+  "license": "CC0-1.0",
+  "sha256": "52dc9a6c81c70eefa1aedcb0ecee89d342acb3e6cfbcdc83484ad19a7993201d",
+  "keys": [
+    "customize",
+    "ladder",
+    "armory",
+    "shop",
+    "help",
+    "party",
+    "reports",
+    "mega",
+    "scatter"
+  ],
+  "size": [
+    768,
+    768
+  ],
+  "cell": 256
+}

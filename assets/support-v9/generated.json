@@ -1,0 +1,16 @@
+{
+  "generator": "tools/frontier/generate_support_art.py",
+  "license": "CC0-1.0",
+  "assets": [
+    {
+      "key": "emp",
+      "file": "emp.png",
+      "sha256": "cdebabc603550f697f821ae99a0ea93ff6844a66042b70ad8fdb686a13dbbaba"
+    },
+    {
+      "key": "fleet_repair",
+      "file": "fleet_repair.png",
+      "sha256": "6cc92b3138276cc01ad1b2ea988f35edff5b2471812648e6878bdac77f995ad4"
+    }
+  ]
+}

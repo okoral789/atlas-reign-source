@@ -1,0 +1,58 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "transparent": true,
+  "assets": [
+    {
+      "file": "wordmark.png",
+      "size": [
+        2172,
+        724
+      ],
+      "bounds": [
+        [
+          13,
+          194,
+          2159,
+          509
+        ]
+      ],
+      "sha256": "ed29a77fee6b69692f9f87353ac973c9fec50a54b481f0baabbf6e02b0af7298",
+      "prompt": "Use case: logo-brand. Asset type: original transparent-background title wordmark for the actual native 2D Roblox strategy game Atlas Reign. Text verbatim: \"ATLAS REIGN\", one single horizontal line, fully legible, spelled exactly. Create an attractive confident GAME LOGO, clean chunky custom geometric lettering with subtle cut corners, compact spacing, a dark navy outline and a restrained offset shadow. ATLAS is ivory-white and REIGN is bright cyan/mint. Tiny original four-point compass integrated at the left at the same height as the lettering; not a huge separate emblem. Keep a very wide low horizontal wordmark silhouette, approximately six times wider than tall. Transparent pixels around the silhouette, no background rectangle, no scenery, no map, no badge or shield, no slogan, no additional text. Flat polished 2D graphic with slight cel-shaded letter depth, not a 3D rendered model, no gold medieval ornamental text, no serif font, no glow haze. High quality game branding usable over a busy map. It should feel like a professionally drawn Roblox strategy title, not a generic text label."
+    },
+    {
+      "file": "armory-icons.png",
+      "size": [
+        1278,
+        1230
+      ],
+      "bounds": [
+        [
+          68,
+          38,
+          610,
+          512
+        ],
+        [
+          654,
+          33,
+          1243,
+          513
+        ],
+        [
+          154,
+          575,
+          517,
+          1192
+        ],
+        [
+          693,
+          573,
+          1208,
+          1181
+        ]
+      ],
+      "sha256": "c0af0fc2bfa1598e6d0058ca3a1b53819f1f29fabe34c5ae631dc8a25f025039",
+      "prompt": "Use case: ui-mockup. Asset type: a single transparent PNG sprite sheet of FOUR original flat 2D game UI illustrations in a precise 2 by 2 equal grid. No labels or text anywhere. Each icon is centered inside its own quadrant, with generous transparent padding, completely isolated and never crossing quadrant borders. Top left: ATOM BOMB, a stout amber-gold tactical bomb with a pointed dark nose, distinct tail fins and one small clean radiation symbol. Top right: HYDROGEN BOMB, a larger cyan/white fusion warhead with strong navy fins and two bold bands. Bottom left: MIRV, a magenta/navy launch canister with THREE small separated warheads above it, unmistakably multiple payloads. Bottom right: REINFORCEMENTS, a mint parachute carrying a compact amber military supply crate with an original troop chevron. All four are clean hand-drawn vector-like cel-shaded 2D illustrations with a dark navy contour and crisp highlights; playful and premium Roblox game UI, readable at 96 pixels, three or four broad colors per icon, no tiny noisy details. Match navy/mint/amber UI. These are 2D icons for a flat map game, not 3D models, not photographs, not realistic militaria. Transparent background, no checkerboard, no colored tile backgrounds, no additional objects, no backdrop and no text. All icons similar visual weight and apparent size in their equal cells."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "neon": {
+    "sha256": "b3c904d49a17e6de29be9835026a5ef2aa09e037610c6b06c57726521fa0991c",
+    "assetId": "87042000355078",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/87042000355078",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-03T22:12:43.814Z",
+      "assetId": "87042000355078",
+      "displayName": "Atlas Reign neon",
+      "description": "Original 2D territory effect icon. CC0. Procedural generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "flame": {
+    "sha256": "3ac3d958a5f5256b4b391ce0108c828931a4461f5bf8e2e3098b260475b29846",
+    "assetId": "78328799928265",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/78328799928265",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-03T22:12:46.250Z",
+      "assetId": "78328799928265",
+      "displayName": "Atlas Reign flame",
+      "description": "Original 2D territory effect icon. CC0. Procedural generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  }
+}

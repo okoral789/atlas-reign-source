@@ -1,0 +1,71 @@
+{
+  "landing.png": {
+    "sha256": "9fbd18f9bdb421df937d8a63b2563f9389fcf09f86f9420b03d0c01b16eb323e",
+    "assetId": "87659820840324",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/87659820840324",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-03T17:15:29.650Z",
+      "assetId": "87659820840324",
+      "displayName": "Atlas Reign landing",
+      "description": "Original illustrated 2D game art. CC0-1.0; original generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "trade.png": {
+    "sha256": "2b682872768d8c06cb5fd5fee0d7bc6ba7a2d35157cd72ad645e8e7c18ac693c",
+    "assetId": "125806953480472",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/125806953480472",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-03T17:15:29.764Z",
+      "assetId": "125806953480472",
+      "displayName": "Atlas Reign trade",
+      "description": "Original illustrated 2D game art. CC0-1.0; original generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "warship.png": {
+    "sha256": "8b74c85b8d7af8c5d5d76cdfd26dbf46d516da64859dab67a51bda16cfde54f9",
+    "assetId": "139249671231121",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/139249671231121",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-03T17:15:32.009Z",
+      "assetId": "139249671231121",
+      "displayName": "Atlas Reign warship",
+      "description": "Original illustrated 2D game art. CC0-1.0; original generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  }
+}

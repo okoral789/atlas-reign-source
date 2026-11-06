@@ -1,0 +1,17 @@
+.venv/
+.bin/
+.secrets/
+build/
+*.rbxl.lock
+__pycache__/
+assets/audio/
+.claude/worktrees/
+src/server/Lobbies/Secret.luau
+
+.DS_Store
+*.rbxlx.lock
+*.rbxl.lock
+.env
+.env.*
+*_api_key*
+key_to_api*.txt

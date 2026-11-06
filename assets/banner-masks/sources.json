@@ -1,0 +1,192 @@
+[
+  {
+    "flag": "anchor",
+    "source": "assets/shop_flags/art/anchor.png",
+    "sha256": "5a1ecba6cbd77af010950a60b7bad485152ace6ea3a5bfba9d1f76f87128dafc"
+  },
+  {
+    "flag": "astronaut",
+    "source": "assets/shop_flags/art/astronaut.png",
+    "sha256": "678f2c19e7cf31063114e773f0ed9f815df568de6e0592fb814d82b98376711a"
+  },
+  {
+    "flag": "aurora_wings",
+    "source": "assets/shop_flags/art/aurora_wings.png",
+    "sha256": "cdfca7867e9587ed5124952089162d97705423661a553a54cb97b1be2d3cf479"
+  },
+  {
+    "flag": "bat_moon",
+    "source": "assets/shop_flags/art/bat_moon.png",
+    "sha256": "1e36ec6fbae7d5eff2952c9ca5569418f827cb6e56e3b4d0a3ecf247513bbd2e"
+  },
+  {
+    "flag": "big_red_button",
+    "source": "assets/shop_flags/art/big_red_button.png",
+    "sha256": "f331d76629d179a2d30bcaddf3a56167d709df89599a9b397ae6bed2473f483a"
+  },
+  {
+    "flag": "capybara",
+    "source": "assets/shop_flags/art/capybara.png",
+    "sha256": "18a321dd3597a0d204a3a9680253456288a934f9c9630bc87761913115848b4d"
+  },
+  {
+    "flag": "cat",
+    "source": "assets/shop_flags/art/cat.png",
+    "sha256": "3e66d9fa125d1ef470e5d415670594557d2ff4cdf1e727853359ccf4af053f6c"
+  },
+  {
+    "flag": "cauldron",
+    "source": "assets/shop_flags/art/cauldron.png",
+    "sha256": "088cb1ab79ea7c5214618c3ee2e51363f3241804b433035efd3e3663d8aec3f8"
+  },
+  {
+    "flag": "comet",
+    "source": "assets/shop_flags/art/comet.png",
+    "sha256": "60e7ea31bbd43183e716ffe274b2c6ae58448c2e8fe5a5709592176a760e3917"
+  },
+  {
+    "flag": "dragon_dynasty",
+    "source": "assets/shop_flags/art/dragon_dynasty.png",
+    "sha256": "2ba3c93724d7facdbb1804adfc6201cfddc8230b1afc86e10323a516625147c8"
+  },
+  {
+    "flag": "eclipse_order",
+    "source": "assets/shop_flags/art/eclipse_order.png",
+    "sha256": "56c770476e5fe86f56c6ce2656be0e9538222267848dd160979be9d033c2ad14"
+  },
+  {
+    "flag": "frost_crown",
+    "source": "assets/shop_flags/art/frost_crown.png",
+    "sha256": "a8e3c7251305ff78ff6193bc5a5d4a7948f90886372ebec585c5fcb871e11982"
+  },
+  {
+    "flag": "golden_vanguard",
+    "source": "assets/shop_flags/art/golden_vanguard.png",
+    "sha256": "5c00e66fa342df629d1997f2586b6172d3976da9c7e87d0127b5c1cbaf6af15e"
+  },
+  {
+    "flag": "grinning_skull",
+    "source": "assets/shop_flags/art/grinning_skull.png",
+    "sha256": "4b06de9a2a14b758a10ad8238b70e04c9c12b9bc98e10b20bdb690d97c8db7dd"
+  },
+  {
+    "flag": "inferno_crest",
+    "source": "assets/shop_flags/art/inferno_crest.png",
+    "sha256": "28e143abf7d1fb33f1b290694df3ddabc41ab31d7dd46c81a7b92dfee3427c46"
+  },
+  {
+    "flag": "jolly_roger",
+    "source": "assets/shop_flags/art/jolly_roger.png",
+    "sha256": "39baa561b9c815003244e520c944e2050d5ff1c262dd12bbfad69f02ba41bdd4"
+  },
+  {
+    "flag": "kraken",
+    "source": "assets/shop_flags/art/kraken.png",
+    "sha256": "e26ccdac0eadbcb64295f7455ab133941bde0cf47f3b273ddf568e65378dfe25"
+  },
+  {
+    "flag": "lighthouse",
+    "source": "assets/shop_flags/art/lighthouse.png",
+    "sha256": "3f2278afee3c74abf4f5817d6f81de5067ac921bf65222ddfe6b6f8ac9c286b0"
+  },
+  {
+    "flag": "lion_crest",
+    "source": "assets/shop_flags/art/lion_crest.png",
+    "sha256": "80db83513f6a2b84afeaa78bb67f09fb88c0b95e634b48e94ad1a8946c8518ef"
+  },
+  {
+    "flag": "mirv_storm",
+    "source": "assets/shop_flags/art/mirv_storm.png",
+    "sha256": "4fdb25c27ee40eb1f1e2ab67873608737c57b3376a6e8f044bfe85e2612a1a02"
+  },
+  {
+    "flag": "phantom",
+    "source": "assets/shop_flags/art/phantom.png",
+    "sha256": "ec0bf2e5b3e9d603bee38821fd9ecced01bc6100dda63acdd749c4b7fc6428c5"
+  },
+  {
+    "flag": "phoenix",
+    "source": "assets/shop_flags/art/phoenix.png",
+    "sha256": "8859a6b67fc4a70f11100a1a906ff493b348495a36cdd040d921ecbf344384b8"
+  },
+  {
+    "flag": "pizza",
+    "source": "assets/shop_flags/art/pizza.png",
+    "sha256": "9265123bcda6bd6270985e0c0082d7286842a44ae72d1290777346b200fe46d4"
+  },
+  {
+    "flag": "pumpkin_king",
+    "source": "assets/shop_flags/art/pumpkin_king.png",
+    "sha256": "454f08cfcfc4e906aa2983af1bda843543b714ae5f733510c4deed1918420a82"
+  },
+  {
+    "flag": "radioactive",
+    "source": "assets/shop_flags/art/radioactive.png",
+    "sha256": "9f53c586754ed4acca6966f24b02dbcfa180224dde30c59eddb6090ab480f389"
+  },
+  {
+    "flag": "ringed_planet",
+    "source": "assets/shop_flags/art/ringed_planet.png",
+    "sha256": "ebe4492a9209146cd65ea368fab0b99198c6d6ca0e93a2c2c60d29d3a5931dd6"
+  },
+  {
+    "flag": "rocket",
+    "source": "assets/shop_flags/art/rocket.png",
+    "sha256": "879c3b353f6e712c82d4f1a55747f24f1ce9aee0d3203a54cd788c5ecc157bcf"
+  },
+  {
+    "flag": "rose_diamond",
+    "source": "assets/shop_flags/art/rose_diamond.png",
+    "sha256": "cc57a6d278c4fec6c3a01c123f6592a64f78b78a4f2907b23ec171e6af5539e9"
+  },
+  {
+    "flag": "rubber_duck",
+    "source": "assets/shop_flags/art/rubber_duck.png",
+    "sha256": "003ccec86c6927e9390bb118c2554072cd0f33730d94e535010cc23d5aeca1f0"
+  },
+  {
+    "flag": "solar_crown",
+    "source": "assets/shop_flags/art/solar_crown.png",
+    "sha256": "812dc2e322095eff8e2a9cad0c03d21f8a96ccaa55642e7d1f140dba0a47f7ae"
+  },
+  {
+    "flag": "spider_web",
+    "source": "assets/shop_flags/art/spider_web.png",
+    "sha256": "a192eb5d1df110e2ea775750523db28423a626cb5806b97c7ad51aa8e5576456"
+  },
+  {
+    "flag": "storm_sigil",
+    "source": "assets/shop_flags/art/storm_sigil.png",
+    "sha256": "b34692aa68cf1e00738da2ac941e150b8ac5fd3ac7c76f8babfc6e76c3727a2f"
+  },
+  {
+    "flag": "thunder",
+    "source": "assets/shop_flags/art/thunder.png",
+    "sha256": "ef4359577be9a8ed9b1f357e2f2cfcd8796e4bd8b45ec489bef96a2e5451ebed"
+  },
+  {
+    "flag": "tidal_crest",
+    "source": "assets/shop_flags/art/tidal_crest.png",
+    "sha256": "18d60bb81b758f31ed730cf6328a5dd42e7950fe95e47d3477f172d3005ec10c"
+  },
+  {
+    "flag": "tornado",
+    "source": "assets/shop_flags/art/tornado.png",
+    "sha256": "f27406de03fed8a91a0b97ca6a75662dcef5f98398cf09766ebd4e0f847f61b7"
+  },
+  {
+    "flag": "volcano",
+    "source": "assets/shop_flags/art/volcano.png",
+    "sha256": "71776f0a14c2ed1cc0eb847b5062b31535e60d89bc5aeee7ed9706f107e6e054"
+  },
+  {
+    "flag": "warhead",
+    "source": "assets/shop_flags/art/warhead.png",
+    "sha256": "4c08e9c1f882607d4ac0aca20b819b99effce9f7c9787d93668284be7d9b9411"
+  },
+  {
+    "flag": "wolf_pack",
+    "source": "assets/shop_flags/art/wolf_pack.png",
+    "sha256": "5be660ac6f9f0ddcbae2fc9d3ea5f100e6c586679dfe081cf3cfe39db31b23b9"
+  }
+]

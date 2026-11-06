@@ -1,0 +1,30 @@
+{
+  "generator": "tools/frontier/generate_fleet_markers.py",
+  "license": "CC0-1.0",
+  "assets": [
+    {
+      "file": "landing.png",
+      "sha256": "16ce31844303ca81a0ed2996571d9f432203c8d63251e93b398a4ec6a7d5f6b5",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "trade.png",
+      "sha256": "2c327c9c9e82ee616242338d55c890684472970c3e99b38a7924843ca902b181",
+      "size": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "warship.png",
+      "sha256": "cd448cea2b01322ef3a6b010efe2210418e8b71990ecb14e62f1a8e0bd934553",
+      "size": [
+        256,
+        256
+      ]
+    }
+  ]
+}

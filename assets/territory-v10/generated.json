@@ -1,0 +1,16 @@
+{
+  "generator": "tools/frontier/generate_territory_fx.py",
+  "license": "CC0-1.0",
+  "assets": [
+    {
+      "key": "neon",
+      "file": "neon.png",
+      "sha256": "b3c904d49a17e6de29be9835026a5ef2aa09e037610c6b06c57726521fa0991c"
+    },
+    {
+      "key": "flame",
+      "file": "flame.png",
+      "sha256": "3ac3d958a5f5256b4b391ce0108c828931a4461f5bf8e2e3098b260475b29846"
+    }
+  ]
+}

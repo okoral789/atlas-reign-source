@@ -1,0 +1,1382 @@
+{
+  "credits.png": {
+    "sha256": "d34139165975dbc0b1c688e376eff96148e53d7d19c97020573baee6e8adce9f",
+    "assetId": "110589862534857",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/110589862534857",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T19:59:53.718Z",
+      "assetId": "110589862534857",
+      "displayName": "Frontier credits",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "alliance.png": {
+    "sha256": "a1a93e91e2e9b23190a991e668ab4b57900cdb4bc852f76b3786ed36e54a38b7",
+    "assetId": "124839244965049",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/124839244965049",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:01.429Z",
+      "assetId": "124839244965049",
+      "displayName": "Frontier alliance",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "app_icon.png": {
+    "sha256": "3e03447219050ca74ab906011489c893c8bed42eaf89f56895ca218d841c3bae",
+    "assetId": "76140284946911",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/76140284946911",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:03.711Z",
+      "assetId": "76140284946911",
+      "displayName": "Frontier app icon",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "atom.png": {
+    "sha256": "076b360c8b6c526828d998af1ba2c09ac2d8172011767d047d8555f852ded6e4",
+    "assetId": "75771123357328",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/75771123357328",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:06.071Z",
+      "assetId": "75771123357328",
+      "displayName": "Frontier atom",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "attack.png": {
+    "sha256": "5a232e23e27501495058cd6310f0fc287c3889bd8da7f5bffb2772f86ad2976d",
+    "assetId": "119398735269650",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/119398735269650",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:08.549Z",
+      "assetId": "119398735269650",
+      "displayName": "Frontier attack",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "betray.png": {
+    "sha256": "652ab04da93abff70512ed0395790d83fff5bc5bf7398801c8a136181e853bca",
+    "assetId": "97026997872307",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/97026997872307",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:10.508Z",
+      "assetId": "97026997872307",
+      "displayName": "Frontier betray",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "boat.png": {
+    "sha256": "9f49095b614f97c6dcaab9441a370e22b6f509ae48f6ac75f13de1957992bc1f",
+    "assetId": "87887233951797",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/87887233951797",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:13.039Z",
+      "assetId": "87887233951797",
+      "displayName": "Frontier boat",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "check.png": {
+    "sha256": "905c42d8202b2ae934322d82b56e1359e7055b7d292136fc89d783fef444b7f9",
+    "assetId": "97286737836110",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/97286737836110",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:15.379Z",
+      "assetId": "97286737836110",
+      "displayName": "Frontier check",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "chevron.png": {
+    "sha256": "ae384563704b3bcc0a716b5f50784510dbf0ddb70f897d5353a0b8768c210b21",
+    "assetId": "86293251217988",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/86293251217988",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:17.357Z",
+      "assetId": "86293251217988",
+      "displayName": "Frontier chevron",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "city.png": {
+    "sha256": "3f78a16df0f4d064495aec91488700483a18ac37a13f0df9ee62fc076069ec54",
+    "assetId": "76889350704230",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/76889350704230",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:19.686Z",
+      "assetId": "76889350704230",
+      "displayName": "Frontier city",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "clock.png": {
+    "sha256": "f108eee8e57313e5e8987588b9093b474e692f34bd9c5cbee7da9671165270ec",
+    "assetId": "91945234523423",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/91945234523423",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:22.097Z",
+      "assetId": "91945234523423",
+      "displayName": "Frontier clock",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "close.png": {
+    "sha256": "38d76d6581bae058f369da50309979751877cbb61af923019f93d72bb6023e80",
+    "assetId": "89138593535429",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/89138593535429",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:24.214Z",
+      "assetId": "89138593535429",
+      "displayName": "Frontier close",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "crown.png": {
+    "sha256": "03af288981b885c1b64bc282a4d2d8ee8e5de961cb906f7a536c4245787d249a",
+    "assetId": "110174184609934",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/110174184609934",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:26.630Z",
+      "assetId": "110174184609934",
+      "displayName": "Frontier crown",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "cues.wav": {
+    "sha256": "92315b982bf6d663ade3764bc909cf29cfb9547beba98865c693ff62963956c4",
+    "assetId": "135700870373661",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/135700870373661",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:29.985Z",
+      "assetId": "135700870373661",
+      "displayName": "Frontier cues",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "defense.png": {
+    "sha256": "3f78a16df0f4d064495aec91488700483a18ac37a13f0df9ee62fc076069ec54",
+    "assetId": "109551311621225",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/109551311621225",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:31.482Z",
+      "assetId": "109551311621225",
+      "displayName": "Frontier defense",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "donate.png": {
+    "sha256": "5a232e23e27501495058cd6310f0fc287c3889bd8da7f5bffb2772f86ad2976d",
+    "assetId": "140181236921332",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/140181236921332",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:33.696Z",
+      "assetId": "140181236921332",
+      "displayName": "Frontier donate",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "exit.png": {
+    "sha256": "38d76d6581bae058f369da50309979751877cbb61af923019f93d72bb6023e80",
+    "assetId": "115322801441761",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/115322801441761",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:35.993Z",
+      "assetId": "115322801441761",
+      "displayName": "Frontier exit",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "eye.png": {
+    "sha256": "519d6c5fb060c9174dcabf7917e2c4cee6ced8036a85580e941408626fdae6a0",
+    "assetId": "73494792138446",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/73494792138446",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:38.457Z",
+      "assetId": "73494792138446",
+      "displayName": "Frontier eye",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "factory.png": {
+    "sha256": "725b1fd0b1624341218973cbd495137a3297ca24d078c357e1bda7e8f5ef5c60",
+    "assetId": "113672197709329",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/113672197709329",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:40.985Z",
+      "assetId": "113672197709329",
+      "displayName": "Frontier factory",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "frontier.png": {
+    "sha256": "3e03447219050ca74ab906011489c893c8bed42eaf89f56895ca218d841c3bae",
+    "assetId": "135486093681373",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/135486093681373",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:43.151Z",
+      "assetId": "135486093681373",
+      "displayName": "Frontier frontier",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "github.png": {
+    "sha256": "23a241cac8c470b27385b039ccf5a6b5d896ed689f6e1915f5236185f87a44f8",
+    "assetId": "101577201530218",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/101577201530218",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:22:52.181Z",
+      "assetId": "101577201530218",
+      "displayName": "Frontier github",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "globe.png": {
+    "sha256": "fc36539c1d6209c35a73f0316a664d711287c447d2d724a67b591c6d89ab9ca7",
+    "assetId": "122563811845631",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/122563811845631",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:47.948Z",
+      "assetId": "122563811845631",
+      "displayName": "Frontier globe",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "gold.png": {
+    "sha256": "eda2b801bb83b42ebdf5a714f2a45df4c4bb17951eceb598df77d07d459854c7",
+    "assetId": "98412949874298",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/98412949874298",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:22:54.450Z",
+      "assetId": "98412949874298",
+      "displayName": "Frontier gold",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "help.png": {
+    "sha256": "8b003c6302d2ca18a9517debdc406fc71715aee9431ac2aecf29d0ef850c7a8f",
+    "assetId": "101697936179501",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/101697936179501",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:52.410Z",
+      "assetId": "101697936179501",
+      "displayName": "Frontier help",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "horizon.wav": {
+    "sha256": "7d395253e665dfb743c2adf875befb88bebc531b9baa17c65e5946fe32ade557",
+    "assetId": "85203109512726",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/85203109512726",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:56.052Z",
+      "assetId": "85203109512726",
+      "displayName": "Frontier horizon",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "hud_exit.png": {
+    "sha256": "38d76d6581bae058f369da50309979751877cbb61af923019f93d72bb6023e80",
+    "assetId": "102334930486253",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/102334930486253",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:57.290Z",
+      "assetId": "102334930486253",
+      "displayName": "Frontier hud exit",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "hud_globe.png": {
+    "sha256": "fc36539c1d6209c35a73f0316a664d711287c447d2d724a67b591c6d89ab9ca7",
+    "assetId": "88613327056851",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/88613327056851",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:00:59.473Z",
+      "assetId": "88613327056851",
+      "displayName": "Frontier hud globe",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "hud_help.png": {
+    "sha256": "8b003c6302d2ca18a9517debdc406fc71715aee9431ac2aecf29d0ef850c7a8f",
+    "assetId": "108228993028380",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/108228993028380",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:01.881Z",
+      "assetId": "108228993028380",
+      "displayName": "Frontier hud help",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "hud_leaderboard.png": {
+    "sha256": "79781b69bac05e7454b27d832cc90f964ce28591209f7630050c0d3d793bedbe",
+    "assetId": "123412069396747",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/123412069396747",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:04.215Z",
+      "assetId": "123412069396747",
+      "displayName": "Frontier hud leaderboard",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "hud_music_off.png": {
+    "sha256": "0d840ec7d2d00d652e8996d21d67765ef92a2b880d18615a2c5655ca7fae789c",
+    "assetId": "132034973195667",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/132034973195667",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:06.518Z",
+      "assetId": "132034973195667",
+      "displayName": "Frontier hud music off",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "hud_music_on.png": {
+    "sha256": "a45546fce8a789a6a63ee7bcfe019470c565762fd709c234e15d202f1a88c8a8",
+    "assetId": "105950118499353",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/105950118499353",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:08.824Z",
+      "assetId": "105950118499353",
+      "displayName": "Frontier hud music on",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "hud_settings.png": {
+    "sha256": "076b360c8b6c526828d998af1ba2c09ac2d8172011767d047d8555f852ded6e4",
+    "assetId": "75731264680906",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/75731264680906",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:10.983Z",
+      "assetId": "75731264680906",
+      "displayName": "Frontier hud settings",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "hydrogen.png": {
+    "sha256": "076b360c8b6c526828d998af1ba2c09ac2d8172011767d047d8555f852ded6e4",
+    "assetId": "138470231474832",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/138470231474832",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:13.274Z",
+      "assetId": "138470231474832",
+      "displayName": "Frontier hydrogen",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "info.png": {
+    "sha256": "8b003c6302d2ca18a9517debdc406fc71715aee9431ac2aecf29d0ef850c7a8f",
+    "assetId": "99946574316528",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/99946574316528",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:15.471Z",
+      "assetId": "99946574316528",
+      "displayName": "Frontier info",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "layers.png": {
+    "sha256": "79781b69bac05e7454b27d832cc90f964ce28591209f7630050c0d3d793bedbe",
+    "assetId": "72141642448539",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/72141642448539",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:17.859Z",
+      "assetId": "72141642448539",
+      "displayName": "Frontier layers",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "leaderboard.png": {
+    "sha256": "79781b69bac05e7454b27d832cc90f964ce28591209f7630050c0d3d793bedbe",
+    "assetId": "135064728324654",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/135064728324654",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:20.144Z",
+      "assetId": "135064728324654",
+      "displayName": "Frontier leaderboard",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "mirv.png": {
+    "sha256": "076b360c8b6c526828d998af1ba2c09ac2d8172011767d047d8555f852ded6e4",
+    "assetId": "77062849122249",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/77062849122249",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:22.425Z",
+      "assetId": "77062849122249",
+      "displayName": "Frontier mirv",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "mobilize.wav": {
+    "sha256": "472ad41fc504e505b8d0a88822d5a2b86ad242ef4f1e16b0ac827b477a402bdf",
+    "assetId": "136056682983556",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/136056682983556",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:25.920Z",
+      "assetId": "136056682983556",
+      "displayName": "Frontier mobilize",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "music_off.png": {
+    "sha256": "0d840ec7d2d00d652e8996d21d67765ef92a2b880d18615a2c5655ca7fae789c",
+    "assetId": "107414338358679",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/107414338358679",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:27.709Z",
+      "assetId": "107414338358679",
+      "displayName": "Frontier music off",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "music_on.png": {
+    "sha256": "a45546fce8a789a6a63ee7bcfe019470c565762fd709c234e15d202f1a88c8a8",
+    "assetId": "92883698536424",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/92883698536424",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:29.737Z",
+      "assetId": "92883698536424",
+      "displayName": "Frontier music on",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "play.png": {
+    "sha256": "ae384563704b3bcc0a716b5f50784510dbf0ddb70f897d5353a0b8768c210b21",
+    "assetId": "127459951105503",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/127459951105503",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:31.962Z",
+      "assetId": "127459951105503",
+      "displayName": "Frontier play",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "pops.png": {
+    "sha256": "de58b898ec9122832638f6929425b77dc53d25c97f2888c4007714727b1ceaa5",
+    "assetId": "92884852701639",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/92884852701639",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:34.293Z",
+      "assetId": "92884852701639",
+      "displayName": "Frontier pops",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "port.png": {
+    "sha256": "9f49095b614f97c6dcaab9441a370e22b6f509ae48f6ac75f13de1957992bc1f",
+    "assetId": "119250950694841",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/119250950694841",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:36.536Z",
+      "assetId": "119250950694841",
+      "displayName": "Frontier port",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "retreat.png": {
+    "sha256": "5a232e23e27501495058cd6310f0fc287c3889bd8da7f5bffb2772f86ad2976d",
+    "assetId": "127555117272279",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/127555117272279",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:38.802Z",
+      "assetId": "127555117272279",
+      "displayName": "Frontier retreat",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "sam.png": {
+    "sha256": "e16e99ab662f9ad031aa75fc1d53796becfb440275c72d39b424a12b0d35f6a9",
+    "assetId": "100089272186456",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/100089272186456",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:41.042Z",
+      "assetId": "100089272186456",
+      "displayName": "Frontier sam",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "settings.png": {
+    "sha256": "076b360c8b6c526828d998af1ba2c09ac2d8172011767d047d8555f852ded6e4",
+    "assetId": "107620897584634",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/107620897584634",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:43.354Z",
+      "assetId": "107620897584634",
+      "displayName": "Frontier settings",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "silo.png": {
+    "sha256": "e16e99ab662f9ad031aa75fc1d53796becfb440275c72d39b424a12b0d35f6a9",
+    "assetId": "74844176010486",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/74844176010486",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:45.800Z",
+      "assetId": "74844176010486",
+      "displayName": "Frontier silo",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "skull.png": {
+    "sha256": "8927727f29fe3059a7f49afd493cd3586820027ed68aa1ccf9f63ea11c5bb717",
+    "assetId": "91971067281567",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/91971067281567",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:48.253Z",
+      "assetId": "91971067281567",
+      "displayName": "Frontier skull",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "target.png": {
+    "sha256": "b171ad652da7e60e6e5156697c9d85057f266b7e41f3960428f5fd8aaac0dc87",
+    "assetId": "123863108067066",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/123863108067066",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:50.169Z",
+      "assetId": "123863108067066",
+      "displayName": "Frontier target",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "troops.png": {
+    "sha256": "de58b898ec9122832638f6929425b77dc53d25c97f2888c4007714727b1ceaa5",
+    "assetId": "85532623219512",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/85532623219512",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:52.468Z",
+      "assetId": "85532623219512",
+      "displayName": "Frontier troops",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "users.png": {
+    "sha256": "215c71aa332131c16b67b6b9ca0a7f545a49a47b74287fa899b374f8ab1b6966",
+    "assetId": "95491842289938",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/95491842289938",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:54.949Z",
+      "assetId": "95491842289938",
+      "displayName": "Frontier users",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "warship.png": {
+    "sha256": "9f49095b614f97c6dcaab9441a370e22b6f509ae48f6ac75f13de1957992bc1f",
+    "assetId": "75412884898931",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/75412884898931",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:01:56.864Z",
+      "assetId": "75412884898931",
+      "displayName": "Frontier warship",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "map_africa.png": {
+    "sha256": "f96defd54fff79e7290901817684858ead5c67936feae82b04fd502241bc8bd6",
+    "assetId": "98526159365823",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/98526159365823",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:02:13.240Z",
+      "assetId": "98526159365823",
+      "displayName": "Frontier map africa",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "map_asia.png": {
+    "sha256": "407b9e863a6983317cffbc5877c58d583d67533314fb6d0fa75f4a7dec906210",
+    "assetId": "101798760391695",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/101798760391695",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:02:15.910Z",
+      "assetId": "101798760391695",
+      "displayName": "Frontier map asia",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "map_europe.png": {
+    "sha256": "ea9769e3f5f33d21381e19de8a02301109c1016fb4dd379b536ee29b542cf023",
+    "assetId": "106236414691510",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/106236414691510",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:02:18.027Z",
+      "assetId": "106236414691510",
+      "displayName": "Frontier map europe",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "map_iron_archipelago.png": {
+    "sha256": "47165e88fce43fcd223e1d542828e865794775611b4b672bc9bcf8867723537d",
+    "assetId": "132234001517958",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/132234001517958",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:02:20.288Z",
+      "assetId": "132234001517958",
+      "displayName": "Frontier map iron archipelago",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "map_northamerica.png": {
+    "sha256": "12b3988d63093936b67f2bd0d844cbed215ae14d1260a81dd047f6324ebde525",
+    "assetId": "136715526415158",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/136715526415158",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:02:22.755Z",
+      "assetId": "136715526415158",
+      "displayName": "Frontier map northamerica",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "map_southamerica.png": {
+    "sha256": "6a4ba24ed6d5e5919242fb88841cec1b0f442cb37d602882384fcce04dfdd024",
+    "assetId": "89738325698347",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/89738325698347",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:02:25.194Z",
+      "assetId": "89738325698347",
+      "displayName": "Frontier map southamerica",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "map_twin_straits.png": {
+    "sha256": "3b9999cfe606ab147956dce44fb3d1406efba855159858251b26fca4ca540d1a",
+    "assetId": "132734018446006",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/132734018446006",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:02:27.288Z",
+      "assetId": "132734018446006",
+      "displayName": "Frontier map twin straits",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "map_world.png": {
+    "sha256": "a537c464004f725132883dc5a2ca084ce13a726c159e0f7edfd31c2db5c0e042",
+    "assetId": "102498039857491",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/102498039857491",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T20:02:29.772Z",
+      "assetId": "102498039857491",
+      "displayName": "Frontier map world",
+      "description": "Original Frontier procedural art/audio. CC0. Generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  }
+}

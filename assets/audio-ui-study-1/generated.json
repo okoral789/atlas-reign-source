@@ -1,0 +1,49 @@
+{
+  "licence": "CC0-1.0",
+  "source": "Original mathematical synthesis; no external audio samples.",
+  "purpose": "Private listening study; not imported into Roblox.",
+  "cues": {
+    "click": {
+      "title": "Jelly click",
+      "start_seconds": 0.25,
+      "seconds": 0.16,
+      "peak": 0.3586855121993413,
+      "sha256": "1d935c8f0eb4acc2a47d3876107006ee1eaf18669951200652ee938052fa059f"
+    },
+    "pop": {
+      "title": "Bubble pop",
+      "start_seconds": 1.42,
+      "seconds": 0.23,
+      "peak": 0.3992049560324132,
+      "sha256": "48cad4970e9604ea17346e758cbdd95d7300270d21a6e2ea29e42f71776833a5"
+    },
+    "swipe": {
+      "title": "Soft swipe",
+      "start_seconds": 2.73,
+      "seconds": 0.32,
+      "peak": 0.27,
+      "sha256": "17a2edfdcbe1e186b61cdc2f620d4b5d32f98d05e06d2ff8f82f8e666ee3f947"
+    },
+    "confirm": {
+      "title": "Confirm",
+      "start_seconds": 4.22,
+      "seconds": 0.53,
+      "peak": 0.43000000000000005,
+      "sha256": "3c2de7fdff2bdb34a932d532de48a106657dc2f698049beb3d061407edfb7734"
+    },
+    "error": {
+      "title": "Soft error",
+      "start_seconds": 6.13,
+      "seconds": 0.34,
+      "peak": 0.2829506565791538,
+      "sha256": "6f76d033d381727947fd2dc9b81ce421bf8a47a8d502690f75fb1d581ce7a53f"
+    },
+    "reward": {
+      "title": "Reward",
+      "start_seconds": 7.66,
+      "seconds": 0.92,
+      "peak": 0.57,
+      "sha256": "298f5d3c59d4db8dd38bb41b418d537f7865505ac0bfaa7f75bad1681bdc435a"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "click": {
+    "start": 0.0,
+    "stop": 0.1,
+    "length": 0.1
+  },
+  "hover": {
+    "start": 0.349977,
+    "stop": 0.409977,
+    "length": 0.06
+  },
+  "confirm": {
+    "start": 0.659955,
+    "stop": 1.079955,
+    "length": 0.42
+  },
+  "deny": {
+    "start": 1.329932,
+    "stop": 1.579909,
+    "length": 0.24997732426303854
+  },
+  "impact": {
+    "start": 1.829887,
+    "stop": 2.529841,
+    "length": 0.6999546485260771
+  },
+  "alarm": {
+    "start": 2.779819,
+    "stop": 3.979819,
+    "length": 1.2
+  },
+  "launch": {
+    "start": 4.229796,
+    "stop": 4.829796,
+    "length": 0.6
+  },
+  "victory": {
+    "start": 5.079773,
+    "stop": 6.479728,
+    "length": 1.3999546485260772
+  },
+  "defeat": {
+    "start": 6.729705,
+    "stop": 7.829705,
+    "length": 1.1
+  }
+}

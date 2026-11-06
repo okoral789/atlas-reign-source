@@ -1,0 +1,23 @@
+-- Licensed Case Portman audio; PRIVATE owner audition only. Not CC0.
+return {cozy = {
+ ui_click = {id="rbxassetid://115679689112751", length=0.24927083333333333},
+ ui_hover = {id="rbxassetid://85749248426762", length=0.07702083333333333},
+ ui_open = {id="rbxassetid://125610349840141", length=0.22191666666666668},
+ ui_back = {id="rbxassetid://120442745894243", length=0.2051875},
+ ui_error = {id="rbxassetid://110914982730766", length=0.27460416666666665},
+ ui_confirm = {id="rbxassetid://127244421854360", length=0.55225},
+ ui_tab = {id="rbxassetid://89676556313591", length=0.10377083333333334},
+ ui_locked = {id="rbxassetid://96771996461505", length=0.247625},
+ star_tick = {id="rbxassetid://114693010946330", length=0.09820833333333333},
+ star_get = {id="rbxassetid://98249995041171", length=0.6721458333333333},
+ buy_spend = {id="rbxassetid://137650958712596", length=0.931625},
+ unlock = {id="rbxassetid://137962225795786", length=0.1835625},
+ victory = {id="rbxassetid://119541012571495", length=2.4040833333333333},
+ defeat = {id="rbxassetid://76652081416003", length=1.5031666666666668},
+ game_start = {id="rbxassetid://87368726002855", length=1.3205625},
+ queue_start = {id="rbxassetid://127244421854360", length=0.55225},
+ countdown_tick = {id="rbxassetid://77816169468662", length=0.058916666666666666},
+ order_ack = {id="rbxassetid://134064985161180", length=0.07839583333333333},
+ eliminate = {id="rbxassetid://125045992768338", length=1.3493333333333333},
+ build = {id="rbxassetid://97936143323887", length=0.1495},
+}}

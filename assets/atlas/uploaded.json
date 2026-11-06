@@ -1,0 +1,117 @@
+{
+  "collection": {
+    "assetId": "78235641882028",
+    "sha256": "9141079025226a80b92304c34c618c50f98c01de96a73bea28942250223de4ea",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/78235641882028",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T21:35:04.572Z",
+      "assetId": "78235641882028",
+      "displayName": "Atlas Reign collection",
+      "description": "Original AI-assisted Atlas Reign artwork, 2026-10-31. Source image and prompt included with corresponding source. CC0 to the extent rights exist.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "credits": {
+    "assetId": "73161390340818",
+    "sha256": "57a46572cc1adb4bd098ab79bd671602dc90e5e02fe6dda25c4325760055886a",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/73161390340818",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T21:35:08.020Z",
+      "assetId": "73161390340818",
+      "displayName": "Atlas Reign credits",
+      "description": "Original AI-assisted Atlas Reign artwork, 2026-10-31. Source image and prompt included with corresponding source. CC0 to the extent rights exist.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "emblem": {
+    "assetId": "129461372052458",
+    "sha256": "1639956493cea603bd97abfc9a9d60c8160461d95a7feb4efba736643977cf0a",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/129461372052458",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T21:35:11.571Z",
+      "assetId": "129461372052458",
+      "displayName": "Atlas Reign emblem",
+      "description": "Original AI-assisted Atlas Reign artwork, 2026-10-31. Source image and prompt included with corresponding source. CC0 to the extent rights exist.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "fleet": {
+    "assetId": "101753455949507",
+    "sha256": "d10857cb3cd1e6651a46a0f8e1034ca55892bdbbeeb5cd8ccf7be2934bb7a712",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/101753455949507",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T21:35:13.363Z",
+      "assetId": "101753455949507",
+      "displayName": "Atlas Reign fleet",
+      "description": "Original AI-assisted Atlas Reign artwork, 2026-10-31. Source image and prompt included with corresponding source. CC0 to the extent rights exist.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "wordmark": {
+    "assetId": "96199831924524",
+    "sha256": "b2e25d2c9d9edcbc33bd1b1365c24bb06a55bc00bd319fbf3e159fba2fe775fe",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/96199831924524",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-10-31T21:35:16.317Z",
+      "assetId": "96199831924524",
+      "displayName": "Atlas Reign wordmark",
+      "description": "Original AI-assisted Atlas Reign artwork, 2026-10-31. Source image and prompt included with corresponding source. CC0 to the extent rights exist.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  }
+}

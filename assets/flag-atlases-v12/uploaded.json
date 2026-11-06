@@ -1,0 +1,117 @@
+{
+  "flags_1.png": {
+    "assetId": "83351476577093",
+    "sha256": "8fee7ed82b3e2cae7379975c6c8e0a46a22000f9e6b3bf6c69b0c10a6c0401ff",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/83351476577093",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:14:34.706Z",
+      "assetId": "83351476577093",
+      "displayName": "Atlas Reign flags 1",
+      "description": "Country flags from the included Wikimedia public-domain/CC0 SVG sources. Per-flag provenance: assets/flags/SOURCE.txt in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "flags_2.png": {
+    "assetId": "110734120863814",
+    "sha256": "5aaa1c8da4e65a680c6113a8c60e592f8c9c58d64627d395ea86344ff4b3525c",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/110734120863814",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:14:37.247Z",
+      "assetId": "110734120863814",
+      "displayName": "Atlas Reign flags 2",
+      "description": "Country flags from the included Wikimedia public-domain/CC0 SVG sources. Per-flag provenance: assets/flags/SOURCE.txt in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "flags_3.png": {
+    "assetId": "123389824365469",
+    "sha256": "363d1f32d7eeae7e46377d1e9a13cfad3de0d24caaf3a2c8d908cca9142ad878",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/123389824365469",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:14:39.724Z",
+      "assetId": "123389824365469",
+      "displayName": "Atlas Reign flags 3",
+      "description": "Country flags from the included Wikimedia public-domain/CC0 SVG sources. Per-flag provenance: assets/flags/SOURCE.txt in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "flags_4.png": {
+    "assetId": "107046889613336",
+    "sha256": "7f6f2ce0fd55d9cbf862c8010070019fae44cdb9b155841f78b753bcc6191904",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/107046889613336",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:14:42.762Z",
+      "assetId": "107046889613336",
+      "displayName": "Atlas Reign flags 4",
+      "description": "Country flags from the included Wikimedia public-domain/CC0 SVG sources. Per-flag provenance: assets/flags/SOURCE.txt in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  },
+  "flags_5.png": {
+    "assetId": "70987383932798",
+    "sha256": "b14c0fb27ffaa013b3cc3c42c714e08e7df5b08191f22690421a924ef7689270",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/70987383932798",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:14:44.620Z",
+      "assetId": "70987383932798",
+      "displayName": "Atlas Reign flags 5",
+      "description": "Country flags from the included Wikimedia public-domain/CC0 SVG sources. Per-flag provenance: assets/flags/SOURCE.txt in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active"
+    }
+  }
+}

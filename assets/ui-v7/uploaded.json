@@ -1,0 +1,25 @@
+{
+  "badges.png": {
+    "sha256": "52dc9a6c81c70eefa1aedcb0ecee89d342acb3e6cfbcdc83484ad19a7993201d",
+    "assetId": "85096483711656",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/85096483711656",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-03T17:15:30.349Z",
+      "assetId": "85096483711656",
+      "displayName": "Atlas Reign badges",
+      "description": "Original illustrated 2D game art. CC0-1.0; original generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  }
+}

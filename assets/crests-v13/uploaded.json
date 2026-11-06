@@ -1,0 +1,178 @@
+{
+  "solar_crown": {
+    "sha256": "812dc2e322095eff8e2a9cad0c03d21f8a96ccaa55642e7d1f140dba0a47f7ae",
+    "assetId": "118418320598944",
+    "response": {
+      "path": "assets/118418320598944",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:57:48.230Z",
+      "assetId": "118418320598944",
+      "displayName": "Atlas Reign solar crown",
+      "description": "Original geometric Atlas Reign crest flag; CC0 1.0. Generator included in the project source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "aurora_wings": {
+    "sha256": "cdfca7867e9587ed5124952089162d97705423661a553a54cb97b1be2d3cf479",
+    "assetId": "98609078135516",
+    "response": {
+      "path": "assets/98609078135516",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:57:50.688Z",
+      "assetId": "98609078135516",
+      "displayName": "Atlas Reign aurora wings",
+      "description": "Original geometric Atlas Reign crest flag; CC0 1.0. Generator included in the project source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "inferno_crest": {
+    "sha256": "28e143abf7d1fb33f1b290694df3ddabc41ab31d7dd46c81a7b92dfee3427c46",
+    "assetId": "73452696036801",
+    "response": {
+      "path": "assets/73452696036801",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:57:53.204Z",
+      "assetId": "73452696036801",
+      "displayName": "#########################",
+      "description": "Original geometric Atlas Reign crest flag; CC0 1.0. Generator included in the project source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "eclipse_order": {
+    "sha256": "56c770476e5fe86f56c6ce2656be0e9538222267848dd160979be9d033c2ad14",
+    "assetId": "115970312072687",
+    "response": {
+      "path": "assets/115970312072687",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:57:55.246Z",
+      "assetId": "115970312072687",
+      "displayName": "Atlas Reign eclipse order",
+      "description": "Original geometric Atlas Reign crest flag; CC0 1.0. Generator included in the project source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "storm_sigil": {
+    "sha256": "b34692aa68cf1e00738da2ac941e150b8ac5fd3ac7c76f8babfc6e76c3727a2f",
+    "assetId": "125142798104793",
+    "response": {
+      "path": "assets/125142798104793",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:57:57.640Z",
+      "assetId": "125142798104793",
+      "displayName": "Atlas Reign storm sigil",
+      "description": "Original geometric Atlas Reign crest flag; CC0 1.0. Generator included in the project source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "tidal_crest": {
+    "sha256": "18d60bb81b758f31ed730cf6328a5dd42e7950fe95e47d3477f172d3005ec10c",
+    "assetId": "105505297076315",
+    "response": {
+      "path": "assets/105505297076315",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:57:59.850Z",
+      "assetId": "105505297076315",
+      "displayName": "Atlas Reign tidal crest",
+      "description": "Original geometric Atlas Reign crest flag; CC0 1.0. Generator included in the project source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "rose_diamond": {
+    "sha256": "cc57a6d278c4fec6c3a01c123f6592a64f78b78a4f2907b23ec171e6af5539e9",
+    "assetId": "107510797703661",
+    "response": {
+      "path": "assets/107510797703661",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:58:02.077Z",
+      "assetId": "107510797703661",
+      "displayName": "Atlas Reign rose diamond",
+      "description": "Original geometric Atlas Reign crest flag; CC0 1.0. Generator included in the project source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "golden_vanguard": {
+    "sha256": "5c00e66fa342df629d1997f2586b6172d3976da9c7e87d0127b5c1cbaf6af15e",
+    "assetId": "132569527236120",
+    "response": {
+      "path": "assets/132569527236120",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T17:58:04.428Z",
+      "assetId": "132569527236120",
+      "displayName": "Atlas Reign golden vanguard",
+      "description": "Original geometric Atlas Reign crest flag; CC0 1.0. Generator included in the project source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "nuke_launch": {
+    "assetId": "104781294616598",
+    "sha256": "732e796a886acaa02ef96d5e1b0b647aaadff3acd815e4de123d891ef5593707",
+    "creatorUserId": "8318659852",
+    "seconds": 0.5627083333333334,
+    "response": {
+      "path": "assets/104781294616598",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-05T22:15:50.175Z",
+      "assetId": "104781294616598",
+      "displayName": "Atlas Reign nuke launch",
+      "description": "4 projectile launches / flaunch.wav by Michel Baradari. CC BY 3.0. Edited for Atlas Reign. Attribution in Help and Credits.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active",
+      "isPublished": true
+    }
+  },
+  "nuke_explosion": {
+    "assetId": "131728021292114",
+    "sha256": "f0f7efa5be0de4454affa5b73b19e9ffb09f8ce62f34e7b237d2ae24789817b4",
+    "creatorUserId": "8318659852",
+    "seconds": 0.7014166666666667,
+    "response": {
+      "path": "assets/131728021292114",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-05T22:15:52.778Z",
+      "assetId": "131728021292114",
+      "displayName": "Atlas Reign nuke explosion",
+      "description": "Boom Pack 2 / explosion_4.wav by dklon. CC BY 3.0. Edited for Atlas Reign. Attribution in Help and Credits.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active",
+      "isPublished": true
+    }
+  },
+  "boat_launch": {
+    "assetId": "124369399532140",
+    "sha256": "7ed4eeb2770c66c9f864a163a19c4da2a436178d8afcbb573c9e685291ed1d87",
+    "creatorUserId": "8318659852",
+    "seconds": 0.313469387755102,
+    "response": {
+      "path": "assets/124369399532140",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-05T19:56:28.778Z",
+      "assetId": "124369399532140",
+      "displayName": "Atlas Battle boat landing",
+      "description": "#################################################################################################################################################################################",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Approved"
+      },
+      "state": "Active",
+      "isPublished": true
+    }
+  }
+}

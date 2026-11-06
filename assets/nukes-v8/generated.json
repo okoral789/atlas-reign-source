@@ -1,0 +1,36 @@
+{
+  "generator": "tools/frontier/generate_nuke_markers.py",
+  "license": "CC0-1.0",
+  "assets": [
+    {
+      "key": "atom",
+      "file": "atom.png",
+      "sha256": "69c4ee0bb3fffcdb258e62dadee335eeab9fe07d0a6e0f3ebb125bfeeec6e60b"
+    },
+    {
+      "key": "hydrogen",
+      "file": "hydrogen.png",
+      "sha256": "ff4d677e8c84f8797598158df449e99951b38fc088a15861f23095bb98bbef2f"
+    },
+    {
+      "key": "mirv",
+      "file": "mirv.png",
+      "sha256": "06e521bd71213256c836fcc6233397003a9a7337529d8bccaa4a17e03ab9313d"
+    },
+    {
+      "key": "mega",
+      "file": "mega.png",
+      "sha256": "cfc16b7a843b59ebf9aeed6b5aa53e0428e47521b18a01e1d2a1a46bf09accb9"
+    },
+    {
+      "key": "scatter",
+      "file": "scatter.png",
+      "sha256": "d8dbccccd95a456b5723f51f8270383de415a69e10a87218682f08b71d92a456"
+    },
+    {
+      "key": "warhead",
+      "file": "warhead.png",
+      "sha256": "9de0fa91a35439fd768b7bf9b02dab0888a2900fc69ea431e161605f3e0196ad"
+    }
+  ]
+}

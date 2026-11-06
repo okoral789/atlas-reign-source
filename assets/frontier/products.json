@@ -1,0 +1,1282 @@
+{
+  "pumpkin_king": {
+    "productId": 3725150802,
+    "name": "Atlas Reign Flag: Pumpkin King",
+    "description": "Unlock the exact Pumpkin King cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:49.985Z",
+    "updatedTimestamp": "2026-10-31T21:43:28.039Z",
+    "isManagedPricingEnabled": false
+  },
+  "bat_moon": {
+    "productId": 3725150815,
+    "name": "Atlas Reign Flag: Bat Moon",
+    "description": "Unlock the exact Bat Moon cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:50.486Z",
+    "updatedTimestamp": "2026-10-31T21:43:28.652Z",
+    "isManagedPricingEnabled": false
+  },
+  "grinning_skull": {
+    "productId": 3725150822,
+    "name": "Atlas Reign Flag: Candle Skull",
+    "description": "Unlock the exact Candle Skull cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:51.022Z",
+    "updatedTimestamp": "2026-10-31T21:43:29.263Z",
+    "isManagedPricingEnabled": false
+  },
+  "cauldron": {
+    "productId": 3725150826,
+    "name": "Atlas Reign Flag: Witch's Brew",
+    "description": "Unlock the exact Witch's Brew cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:51.54Z",
+    "updatedTimestamp": "2026-10-31T21:43:29.858Z",
+    "isManagedPricingEnabled": false
+  },
+  "phantom": {
+    "productId": 3725150827,
+    "name": "Atlas Reign Flag: Phantom",
+    "description": "Unlock the exact Phantom cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:52.047Z",
+    "updatedTimestamp": "2026-10-31T21:43:30.47Z",
+    "isManagedPricingEnabled": false
+  },
+  "spider_web": {
+    "productId": 3725150836,
+    "name": "Atlas Reign Flag: Spider's Lair",
+    "description": "Unlock the exact Spider's Lair cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:52.545Z",
+    "updatedTimestamp": "2026-10-31T21:43:31.059Z",
+    "isManagedPricingEnabled": false
+  },
+  "lion_crest": {
+    "productId": 3725150841,
+    "name": "Atlas Reign Flag: Lion Crest",
+    "description": "Unlock the exact Lion Crest cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:53.018Z",
+    "updatedTimestamp": "2026-10-31T21:43:31.649Z",
+    "isManagedPricingEnabled": false
+  },
+  "wolf_pack": {
+    "productId": 3725150845,
+    "name": "Atlas Reign Flag: Wolf Pack",
+    "description": "Unlock the exact Wolf Pack cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:53.531Z",
+    "updatedTimestamp": "2026-10-31T21:43:32.342Z",
+    "isManagedPricingEnabled": false
+  },
+  "dragon_dynasty": {
+    "productId": 3725150847,
+    "name": "Atlas Reign Flag: Dragon Dynasty",
+    "description": "Unlock the exact Dragon Dynasty cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:54.038Z",
+    "updatedTimestamp": "2026-10-31T21:43:32.963Z",
+    "isManagedPricingEnabled": false
+  },
+  "phoenix": {
+    "productId": 3725150853,
+    "name": "Atlas Reign Flag: Phoenix Rising",
+    "description": "Unlock the exact Phoenix Rising cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:54.574Z",
+    "updatedTimestamp": "2026-10-31T21:43:33.575Z",
+    "isManagedPricingEnabled": false
+  },
+  "radioactive": {
+    "productId": 3725150857,
+    "name": "Atlas Reign Flag: Radioactive",
+    "description": "Unlock the exact Radioactive cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:55.036Z",
+    "updatedTimestamp": "2026-10-31T21:43:34.167Z",
+    "isManagedPricingEnabled": false
+  },
+  "warhead": {
+    "productId": 3725150862,
+    "name": "Atlas Reign Flag: Warhead",
+    "description": "Unlock the exact Warhead cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:55.652Z",
+    "updatedTimestamp": "2026-10-31T21:43:34.795Z",
+    "isManagedPricingEnabled": false
+  },
+  "mirv_storm": {
+    "productId": 3725150869,
+    "name": "Atlas Reign Flag: MIRV Storm",
+    "description": "Unlock the exact MIRV Storm cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:56.16Z",
+    "updatedTimestamp": "2026-10-31T21:43:35.376Z",
+    "isManagedPricingEnabled": false
+  },
+  "big_red_button": {
+    "productId": 3725150883,
+    "name": "Atlas Reign Flag: Big Red Button",
+    "description": "Unlock the exact Big Red Button cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:56.651Z",
+    "updatedTimestamp": "2026-10-31T21:43:35.98Z",
+    "isManagedPricingEnabled": false
+  },
+  "kraken": {
+    "productId": 3725150887,
+    "name": "Atlas Reign Flag: Kraken",
+    "description": "Unlock the exact Kraken cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:57.225Z",
+    "updatedTimestamp": "2026-10-31T21:43:36.598Z",
+    "isManagedPricingEnabled": false
+  },
+  "anchor": {
+    "productId": 3725150891,
+    "name": "Atlas Reign Flag: Iron Anchor",
+    "description": "Unlock the exact Iron Anchor cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:57.685Z",
+    "updatedTimestamp": "2026-10-31T21:43:37.205Z",
+    "isManagedPricingEnabled": false
+  },
+  "jolly_roger": {
+    "productId": 3725150900,
+    "name": "Atlas Reign Flag: Jolly Roger",
+    "description": "Unlock the exact Jolly Roger cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:58.242Z",
+    "updatedTimestamp": "2026-10-31T21:43:37.878Z",
+    "isManagedPricingEnabled": false
+  },
+  "lighthouse": {
+    "productId": 3725150911,
+    "name": "Atlas Reign Flag: Lighthouse",
+    "description": "Unlock the exact Lighthouse cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:58.742Z",
+    "updatedTimestamp": "2026-10-31T21:43:38.466Z",
+    "isManagedPricingEnabled": false
+  },
+  "astronaut": {
+    "productId": 3725150919,
+    "name": "Atlas Reign Flag: Astronaut",
+    "description": "Unlock the exact Astronaut cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:59.369Z",
+    "updatedTimestamp": "2026-10-31T21:43:39.061Z",
+    "isManagedPricingEnabled": false
+  },
+  "rocket": {
+    "productId": 3725150925,
+    "name": "Atlas Reign Flag: Liftoff",
+    "description": "Unlock the exact Liftoff cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:13:59.836Z",
+    "updatedTimestamp": "2026-10-31T21:43:39.67Z",
+    "isManagedPricingEnabled": false
+  },
+  "ringed_planet": {
+    "productId": 3725150927,
+    "name": "Atlas Reign Flag: Ringed Planet",
+    "description": "Unlock the exact Ringed Planet cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:14:00.349Z",
+    "updatedTimestamp": "2026-10-31T21:43:40.276Z",
+    "isManagedPricingEnabled": false
+  },
+  "comet": {
+    "productId": 3725150932,
+    "name": "Atlas Reign Flag: Comet",
+    "description": "Unlock the exact Comet cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:14:00.893Z",
+    "updatedTimestamp": "2026-10-31T21:43:40.892Z",
+    "isManagedPricingEnabled": false
+  },
+  "cat": {
+    "productId": 3725150935,
+    "name": "Atlas Reign Flag: Smug Cat",
+    "description": "Unlock the exact Smug Cat cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:14:01.379Z",
+    "updatedTimestamp": "2026-10-31T21:43:41.488Z",
+    "isManagedPricingEnabled": false
+  },
+  "capybara": {
+    "productId": 3725150939,
+    "name": "Atlas Reign Flag: Capybara",
+    "description": "Unlock the exact Capybara cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:14:01.859Z",
+    "updatedTimestamp": "2026-10-31T21:43:42.175Z",
+    "isManagedPricingEnabled": false
+  },
+  "rubber_duck": {
+    "productId": 3725150943,
+    "name": "Atlas Reign Flag: Rubber Duck",
+    "description": "Unlock the exact Rubber Duck cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:14:02.337Z",
+    "updatedTimestamp": "2026-10-31T21:43:42.784Z",
+    "isManagedPricingEnabled": false
+  },
+  "pizza": {
+    "productId": 3725150944,
+    "name": "Atlas Reign Flag: Pizza Party",
+    "description": "Unlock the exact Pizza Party cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:14:02.806Z",
+    "updatedTimestamp": "2026-10-31T21:43:43.39Z",
+    "isManagedPricingEnabled": false
+  },
+  "volcano": {
+    "productId": 3725150946,
+    "name": "Atlas Reign Flag: Volcano",
+    "description": "Unlock the exact Volcano cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:14:03.261Z",
+    "updatedTimestamp": "2026-10-31T21:43:43.99Z",
+    "isManagedPricingEnabled": false
+  },
+  "thunder": {
+    "productId": 3725150949,
+    "name": "Atlas Reign Flag: Thunderstrike",
+    "description": "Unlock the exact Thunderstrike cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:14:03.703Z",
+    "updatedTimestamp": "2026-10-31T21:43:44.621Z",
+    "isManagedPricingEnabled": false
+  },
+  "frost_crown": {
+    "productId": 3725150954,
+    "name": "Atlas Reign Flag: Frost Crown",
+    "description": "Unlock the exact Frost Crown cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:14:04.179Z",
+    "updatedTimestamp": "2026-10-31T21:43:45.231Z",
+    "isManagedPricingEnabled": false
+  },
+  "tornado": {
+    "productId": 3725150955,
+    "name": "Atlas Reign Flag: Tornado",
+    "description": "Unlock the exact Tornado cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 49,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:14:04.662Z",
+    "updatedTimestamp": "2026-10-31T21:43:45.894Z",
+    "isManagedPricingEnabled": false
+  },
+  "unlock_mega": {
+    "productId": 3725178533,
+    "name": "Atlas Reign Unlock: Siegebreaker",
+    "description": "Permanent Siegebreaker unlock. Also earnable with Credits. Normal in-match Gold costs and cooldowns apply.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 39,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:58:03.676Z",
+    "updatedTimestamp": "2026-11-03T19:13:39.356Z",
+    "isManagedPricingEnabled": false
+  },
+  "unlock_scatter": {
+    "productId": 3725178536,
+    "name": "Atlas Reign Unlock: Comet Cluster",
+    "description": "Permanent Comet Cluster unlock. Also earnable with Credits. Normal in-match Gold costs and cooldowns apply.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 67,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:58:04.161Z",
+    "updatedTimestamp": "2026-11-03T19:13:40.013Z",
+    "isManagedPricingEnabled": false
+  },
+  "unlock_reinforce": {
+    "productId": 3725178537,
+    "name": "Atlas Reign Unlock: Reinforcements",
+    "description": "Permanent Reinforcements unlock. Also earnable with Credits. Normal in-match Gold costs and cooldowns apply.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:58:04.615Z",
+    "updatedTimestamp": "2026-10-31T21:43:46.491Z",
+    "isManagedPricingEnabled": false
+  },
+  "unlock_artillery": {
+    "productId": 3725178538,
+    "name": "Frontier Unlock: Artillery",
+    "description": "Permanent Artillery unlock. Also earnable with Credits. Normal in-match Gold costs and cooldowns apply.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": false,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:58:05.2Z",
+    "updatedTimestamp": "2026-10-31T21:46:05.48Z",
+    "isManagedPricingEnabled": false
+  },
+  "unlock_airfield": {
+    "productId": 3725178544,
+    "name": "Frontier Unlock: Air Strike",
+    "description": "Permanent Air Strike unlock. Also earnable with Credits. Normal in-match Gold costs and cooldowns apply.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": false,
+    "priceInformation": {
+      "defaultPriceInRobux": 349,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:58:05.745Z",
+    "updatedTimestamp": "2026-10-31T21:46:06.241Z",
+    "isManagedPricingEnabled": false
+  },
+  "unlock_railgun": {
+    "productId": 3725178546,
+    "name": "Frontier Unlock: Railgun",
+    "description": "Permanent Railgun unlock. Also earnable with Credits. Normal in-match Gold costs and cooldowns apply.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": false,
+    "priceInformation": {
+      "defaultPriceInRobux": 999,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:58:06.314Z",
+    "updatedTimestamp": "2026-10-31T21:46:07.003Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_2": {
+    "productId": 3725178548,
+    "name": "Atlas Reign Profile Color: Blue",
+    "description": "Unlock the Blue profile accent color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": false,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:58:06.885Z",
+    "updatedTimestamp": "2026-11-03T19:13:47.64Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_3": {
+    "productId": 3725178555,
+    "name": "Atlas Reign Profile Color: Emerald",
+    "description": "Unlock the Emerald profile accent color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": false,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:58:07.365Z",
+    "updatedTimestamp": "2026-11-03T19:13:48.439Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_4": {
+    "productId": 3725178562,
+    "name": "Atlas Reign Profile Color: Rose",
+    "description": "Unlock the Rose profile accent color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": false,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:58:07.923Z",
+    "updatedTimestamp": "2026-11-03T19:13:49.272Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_5": {
+    "productId": 3725178566,
+    "name": "Atlas Reign Profile Color: Violet",
+    "description": "Unlock the Violet profile accent color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": false,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:58:08.478Z",
+    "updatedTimestamp": "2026-11-03T19:13:50.061Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_6": {
+    "productId": 3725178574,
+    "name": "Atlas Reign Profile Color: Orange",
+    "description": "Unlock the Orange profile accent color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": false,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T20:58:09.042Z",
+    "updatedTimestamp": "2026-11-03T19:13:50.847Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_fleet_copper": {
+    "productId": 3725221796,
+    "name": "Atlas Reign Livery: Copper Vanguard",
+    "description": "Permanent Copper Vanguard animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T21:43:50.141Z",
+    "updatedTimestamp": "2026-11-04T17:58:36.307Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_fleet_crimson": {
+    "productId": 3725221814,
+    "name": "Atlas Reign Livery: Crimson Standard",
+    "description": "Permanent Crimson Standard animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T21:43:50.611Z",
+    "updatedTimestamp": "2026-11-04T17:58:36.909Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_fleet_obsidian": {
+    "productId": 3725221829,
+    "name": "Atlas Reign Livery: Obsidian Admiralty",
+    "description": "Permanent Obsidian Admiralty animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-10-31T21:43:51.074Z",
+    "updatedTimestamp": "2026-11-04T17:58:37.526Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_7": {
+    "productId": 3728032175,
+    "name": "Atlas Reign Country Color: Arctic Pearl",
+    "description": "Unlock the exclusive Arctic Pearl country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T19:13:40.665Z",
+    "updatedTimestamp": "2026-11-03T19:17:23.63Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_8": {
+    "productId": 3728032179,
+    "name": "Atlas Reign Country Color: Obsidian",
+    "description": "Unlock the exclusive Obsidian country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T19:13:41.313Z",
+    "updatedTimestamp": "2026-11-03T19:17:24.38Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_9": {
+    "productId": 3728032180,
+    "name": "Atlas Reign Country Color: Neon Magenta",
+    "description": "Unlock the exclusive Neon Magenta country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T19:13:41.768Z",
+    "updatedTimestamp": "2026-11-03T19:17:25.083Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_10": {
+    "productId": 3728032184,
+    "name": "Atlas Reign Country Color: Imperial Gold",
+    "description": "Unlock the exclusive Imperial Gold country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T19:13:42.368Z",
+    "updatedTimestamp": "2026-11-03T19:17:25.762Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_11": {
+    "productId": 3728032194,
+    "name": "Atlas Reign Country Color: Void Violet",
+    "description": "Unlock the exclusive Void Violet country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T19:13:42.942Z",
+    "updatedTimestamp": "2026-11-03T19:17:26.409Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_pattern_circuit": {
+    "productId": 3728032199,
+    "name": "Atlas Reign Livery: Neon Circuit",
+    "description": "Permanent Neon Circuit animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T19:13:43.429Z",
+    "updatedTimestamp": "2026-11-04T17:58:38.136Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_pattern_lava": {
+    "productId": 3728032208,
+    "name": "Atlas Reign Livery: Molten Rift",
+    "description": "Permanent Molten Rift animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T19:13:43.981Z",
+    "updatedTimestamp": "2026-11-04T17:58:38.781Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_pattern_royal": {
+    "productId": 3728032210,
+    "name": "Atlas Reign Livery: Royal Filigree",
+    "description": "Permanent Royal Filigree animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T19:13:44.591Z",
+    "updatedTimestamp": "2026-11-04T17:58:39.391Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_pattern_frost": {
+    "productId": 3728032213,
+    "name": "Atlas Reign Livery: Frost Prism",
+    "description": "Permanent Frost Prism animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T19:13:45.194Z",
+    "updatedTimestamp": "2026-11-04T17:58:40.001Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_pattern_nebula": {
+    "productId": 3728032217,
+    "name": "Atlas Reign Livery: Nebula Grid",
+    "description": "Permanent Nebula Grid animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T19:13:45.705Z",
+    "updatedTimestamp": "2026-11-04T17:58:40.627Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_pattern_topo": {
+    "productId": 3728032218,
+    "name": "Atlas Reign Livery: Tactical Contours",
+    "description": "Permanent Tactical Contours animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T19:13:46.197Z",
+    "updatedTimestamp": "2026-11-04T17:58:41.277Z",
+    "isManagedPricingEnabled": false
+  },
+  "unlock_emp": {
+    "productId": 3728043290,
+    "name": "Atlas Reign Unlock: EMP Pulse",
+    "description": "Permanent EMP Pulse unlock. Also earnable with Credits. Normal in-match Gold costs and cooldowns apply.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": false,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T20:16:13.548Z",
+    "updatedTimestamp": "2026-11-06T14:04:58.949Z",
+    "isManagedPricingEnabled": false
+  },
+  "unlock_fleet_repair": {
+    "productId": 3728043293,
+    "name": "Atlas Reign Unlock: Fleet Repair",
+    "description": "Permanent Fleet Repair unlock. Also earnable with Credits. Normal in-match Gold costs and cooldowns apply.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 79,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-03T20:16:14.125Z",
+    "updatedTimestamp": "2026-11-03T20:16:14.125Z",
+    "isManagedPricingEnabled": false
+  },
+  "solar_crown": {
+    "productId": 3728267406,
+    "name": "Atlas Reign Flag: Solar Crown",
+    "description": "Unlock the exact Solar Crown cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:29.415Z",
+    "updatedTimestamp": "2026-11-04T17:58:29.415Z",
+    "isManagedPricingEnabled": false
+  },
+  "aurora_wings": {
+    "productId": 3728267413,
+    "name": "Atlas Reign Flag: Aurora Wings",
+    "description": "Unlock the exact Aurora Wings cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:29.877Z",
+    "updatedTimestamp": "2026-11-04T17:58:29.877Z",
+    "isManagedPricingEnabled": false
+  },
+  "inferno_crest": {
+    "productId": 3728267418,
+    "name": "Atlas Reign Flag: Inferno Crest",
+    "description": "Unlock the exact Inferno Crest cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:30.368Z",
+    "updatedTimestamp": "2026-11-04T17:58:30.368Z",
+    "isManagedPricingEnabled": false
+  },
+  "eclipse_order": {
+    "productId": 3728267421,
+    "name": "Atlas Reign Flag: Eclipse Order",
+    "description": "Unlock the exact Eclipse Order cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:30.772Z",
+    "updatedTimestamp": "2026-11-04T17:58:30.772Z",
+    "isManagedPricingEnabled": false
+  },
+  "storm_sigil": {
+    "productId": 3728267426,
+    "name": "Atlas Reign Flag: Storm Sigil",
+    "description": "Unlock the exact Storm Sigil cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:31.208Z",
+    "updatedTimestamp": "2026-11-04T17:58:31.208Z",
+    "isManagedPricingEnabled": false
+  },
+  "tidal_crest": {
+    "productId": 3728267428,
+    "name": "Atlas Reign Flag: Tidal Crest",
+    "description": "Unlock the exact Tidal Crest cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:31.653Z",
+    "updatedTimestamp": "2026-11-04T17:58:31.653Z",
+    "isManagedPricingEnabled": false
+  },
+  "rose_diamond": {
+    "productId": 3728267430,
+    "name": "Atlas Reign Flag: Rose Diamond",
+    "description": "Unlock the exact Rose Diamond cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 99,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:32.115Z",
+    "updatedTimestamp": "2026-11-04T17:58:32.115Z",
+    "isManagedPricingEnabled": false
+  },
+  "golden_vanguard": {
+    "productId": 3728267435,
+    "name": "Atlas Reign Flag: Golden Vanguard",
+    "description": "Unlock the exact Golden Vanguard cosmetic flag. Robux only. No random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:32.501Z",
+    "updatedTimestamp": "2026-11-04T17:58:32.501Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_12": {
+    "productId": 3728267441,
+    "name": "Atlas Reign Country Color: Solar Flare",
+    "description": "Unlock the exclusive Solar Flare country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:32.926Z",
+    "updatedTimestamp": "2026-11-04T17:58:32.926Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_13": {
+    "productId": 3728267442,
+    "name": "Atlas Reign Country Color: Tropical Glass",
+    "description": "Unlock the exclusive Tropical Glass country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:33.433Z",
+    "updatedTimestamp": "2026-11-04T17:58:33.433Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_14": {
+    "productId": 3728267445,
+    "name": "Atlas Reign Country Color: Royal Amethyst",
+    "description": "Unlock the exclusive Royal Amethyst country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:33.844Z",
+    "updatedTimestamp": "2026-11-04T17:58:33.844Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_15": {
+    "productId": 3728267449,
+    "name": "Atlas Reign Country Color: Ruby Chrome",
+    "description": "Unlock the exclusive Ruby Chrome country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:34.249Z",
+    "updatedTimestamp": "2026-11-04T17:58:34.249Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_16": {
+    "productId": 3728267452,
+    "name": "Atlas Reign Country Color: Aurora Mint",
+    "description": "Unlock the exclusive Aurora Mint country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:34.661Z",
+    "updatedTimestamp": "2026-11-04T17:58:34.661Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_17": {
+    "productId": 3728267454,
+    "name": "Atlas Reign Country Color: Rose Quartz",
+    "description": "Unlock the exclusive Rose Quartz country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:35.082Z",
+    "updatedTimestamp": "2026-11-04T17:58:35.082Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_18": {
+    "productId": 3728267461,
+    "name": "Atlas Reign Country Color: Electric Glacier",
+    "description": "Unlock the exclusive Electric Glacier country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:35.478Z",
+    "updatedTimestamp": "2026-11-04T17:58:35.478Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_19": {
+    "productId": 3728267463,
+    "name": "Atlas Reign Country Color: Acid Alloy",
+    "description": "Unlock the exclusive Acid Alloy country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:35.879Z",
+    "updatedTimestamp": "2026-11-04T17:58:35.879Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_border_aurora": {
+    "productId": 3728267506,
+    "name": "Atlas Reign Livery: Aurora Flow",
+    "description": "Permanent Aurora Flow animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:42.037Z",
+    "updatedTimestamp": "2026-11-04T17:58:42.037Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_border_storm": {
+    "productId": 3728267509,
+    "name": "Atlas Reign Livery: Storm Voltage",
+    "description": "Permanent Storm Voltage animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:42.521Z",
+    "updatedTimestamp": "2026-11-04T17:58:42.521Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_border_tidal": {
+    "productId": 3728267513,
+    "name": "Atlas Reign Livery: Tidal Surge",
+    "description": "Permanent Tidal Surge animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:42.951Z",
+    "updatedTimestamp": "2026-11-04T17:58:42.951Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_border_eclipse": {
+    "productId": 3728267516,
+    "name": "Atlas Reign Livery: Eclipse Halo",
+    "description": "Permanent Eclipse Halo animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-04T17:58:43.458Z",
+    "updatedTimestamp": "2026-11-04T17:58:43.458Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_20": {
+    "productId": 3728876881,
+    "name": "Atlas Reign Country Color: Icefire",
+    "description": "Unlock the exclusive Icefire country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-06T14:04:56.998Z",
+    "updatedTimestamp": "2026-11-06T14:04:56.998Z",
+    "isManagedPricingEnabled": false
+  },
+  "profile_color_21": {
+    "productId": 3728876884,
+    "name": "Atlas Reign Country Color: Carbon Rose",
+    "description": "Unlock the exclusive Carbon Rose country color. Robux only. Cosmetic; no combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 29,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-06T14:04:57.39Z",
+    "updatedTimestamp": "2026-11-06T14:04:57.39Z",
+    "isManagedPricingEnabled": false
+  },
+  "skin_border_prism": {
+    "productId": 3728876887,
+    "name": "Atlas Reign Livery: Prism Current",
+    "description": "Permanent Prism Current animated border and matching fleet trim. Exact cosmetic; no random reward or combat advantage.",
+    "iconImageAssetId": 88963008124478,
+    "universeId": 10774039150,
+    "isForSale": true,
+    "priceInformation": {
+      "defaultPriceInRobux": 149,
+      "enabledFeatures": []
+    },
+    "isImmutable": false,
+    "createdTimestamp": "2026-11-06T14:04:57.849Z",
+    "updatedTimestamp": "2026-11-06T14:04:57.849Z",
+    "isManagedPricingEnabled": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "emp": {
+    "sha256": "cdebabc603550f697f821ae99a0ea93ff6844a66042b70ad8fdb686a13dbbaba",
+    "assetId": "94841860579679",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/94841860579679",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-03T20:12:20.414Z",
+      "assetId": "94841860579679",
+      "displayName": "Atlas Reign emp",
+      "description": "Original 2D tactical support icon. CC0. Procedural generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "fleet_repair": {
+    "sha256": "6cc92b3138276cc01ad1b2ea988f35edff5b2471812648e6878bdac77f995ad4",
+    "assetId": "81358882210162",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/81358882210162",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-03T20:12:22.640Z",
+      "assetId": "81358882210162",
+      "displayName": "Atlas Reign fleet repair",
+      "description": "Original 2D tactical support icon. CC0. Procedural generator included in corresponding source.",
+      "assetType": "Image",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  }
+}

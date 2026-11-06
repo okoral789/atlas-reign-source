@@ -1,0 +1,194 @@
+{
+  "wordmark": {
+    "assetId": "116547271865434",
+    "sha256": "ed29a77fee6b69692f9f87353ac973c9fec50a54b481f0baabbf6e02b0af7298",
+    "file": "assets/atlas-v2/wordmark.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:anchor": {
+    "assetId": "74975112824607",
+    "sha256": "5a1ecba6cbd77af010950a60b7bad485152ace6ea3a5bfba9d1f76f87128dafc",
+    "file": "assets/shop_flags/art/anchor.png",
+    "creatorUserId": "8318659852"
+  },
+  "armory": {
+    "assetId": "72938657929687",
+    "sha256": "c0af0fc2bfa1598e6d0058ca3a1b53819f1f29fabe34c5ae631dc8a25f025039",
+    "file": "assets/atlas-v2/armory-icons.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:astronaut": {
+    "assetId": "129092692820120",
+    "sha256": "678f2c19e7cf31063114e773f0ed9f815df568de6e0592fb814d82b98376711a",
+    "file": "assets/shop_flags/art/astronaut.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:big_red_button": {
+    "assetId": "114846543878858",
+    "sha256": "f331d76629d179a2d30bcaddf3a56167d709df89599a9b397ae6bed2473f483a",
+    "file": "assets/shop_flags/art/big_red_button.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:bat_moon": {
+    "assetId": "137574087281848",
+    "sha256": "1e36ec6fbae7d5eff2952c9ca5569418f827cb6e56e3b4d0a3ecf247513bbd2e",
+    "file": "assets/shop_flags/art/bat_moon.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:capybara": {
+    "assetId": "134435241395695",
+    "sha256": "18a321dd3597a0d204a3a9680253456288a934f9c9630bc87761913115848b4d",
+    "file": "assets/shop_flags/art/capybara.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:cauldron": {
+    "assetId": "119766415236243",
+    "sha256": "088cb1ab79ea7c5214618c3ee2e51363f3241804b433035efd3e3663d8aec3f8",
+    "file": "assets/shop_flags/art/cauldron.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:cat": {
+    "assetId": "125704187475686",
+    "sha256": "3e66d9fa125d1ef470e5d415670594557d2ff4cdf1e727853359ccf4af053f6c",
+    "file": "assets/shop_flags/art/cat.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:dragon_dynasty": {
+    "assetId": "133420631870135",
+    "sha256": "2ba3c93724d7facdbb1804adfc6201cfddc8230b1afc86e10323a516625147c8",
+    "file": "assets/shop_flags/art/dragon_dynasty.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:comet": {
+    "assetId": "83087538471732",
+    "sha256": "60e7ea31bbd43183e716ffe274b2c6ae58448c2e8fe5a5709592176a760e3917",
+    "file": "assets/shop_flags/art/comet.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:frost_crown": {
+    "assetId": "115934596014752",
+    "sha256": "a8e3c7251305ff78ff6193bc5a5d4a7948f90886372ebec585c5fcb871e11982",
+    "file": "assets/shop_flags/art/frost_crown.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:jolly_roger": {
+    "assetId": "77264219527463",
+    "sha256": "39baa561b9c815003244e520c944e2050d5ff1c262dd12bbfad69f02ba41bdd4",
+    "file": "assets/shop_flags/art/jolly_roger.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:grinning_skull": {
+    "assetId": "87794385588162",
+    "sha256": "4b06de9a2a14b758a10ad8238b70e04c9c12b9bc98e10b20bdb690d97c8db7dd",
+    "file": "assets/shop_flags/art/grinning_skull.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:kraken": {
+    "assetId": "111527199754240",
+    "sha256": "e26ccdac0eadbcb64295f7455ab133941bde0cf47f3b273ddf568e65378dfe25",
+    "file": "assets/shop_flags/art/kraken.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:lighthouse": {
+    "assetId": "74656767698421",
+    "sha256": "3f2278afee3c74abf4f5817d6f81de5067ac921bf65222ddfe6b6f8ac9c286b0",
+    "file": "assets/shop_flags/art/lighthouse.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:lion_crest": {
+    "assetId": "90471687998981",
+    "sha256": "80db83513f6a2b84afeaa78bb67f09fb88c0b95e634b48e94ad1a8946c8518ef",
+    "file": "assets/shop_flags/art/lion_crest.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:mirv_storm": {
+    "assetId": "101902294164140",
+    "sha256": "4fdb25c27ee40eb1f1e2ab67873608737c57b3376a6e8f044bfe85e2612a1a02",
+    "file": "assets/shop_flags/art/mirv_storm.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:phantom": {
+    "assetId": "72196802321736",
+    "sha256": "ec0bf2e5b3e9d603bee38821fd9ecced01bc6100dda63acdd749c4b7fc6428c5",
+    "file": "assets/shop_flags/art/phantom.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:phoenix": {
+    "assetId": "96631128824979",
+    "sha256": "8859a6b67fc4a70f11100a1a906ff493b348495a36cdd040d921ecbf344384b8",
+    "file": "assets/shop_flags/art/phoenix.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:pizza": {
+    "assetId": "83146873813169",
+    "sha256": "9265123bcda6bd6270985e0c0082d7286842a44ae72d1290777346b200fe46d4",
+    "file": "assets/shop_flags/art/pizza.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:pumpkin_king": {
+    "assetId": "80932962457354",
+    "sha256": "454f08cfcfc4e906aa2983af1bda843543b714ae5f733510c4deed1918420a82",
+    "file": "assets/shop_flags/art/pumpkin_king.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:radioactive": {
+    "assetId": "119777656456398",
+    "sha256": "9f53c586754ed4acca6966f24b02dbcfa180224dde30c59eddb6090ab480f389",
+    "file": "assets/shop_flags/art/radioactive.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:ringed_planet": {
+    "assetId": "109520358464197",
+    "sha256": "ebe4492a9209146cd65ea368fab0b99198c6d6ca0e93a2c2c60d29d3a5931dd6",
+    "file": "assets/shop_flags/art/ringed_planet.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:rocket": {
+    "assetId": "71853447760899",
+    "sha256": "879c3b353f6e712c82d4f1a55747f24f1ce9aee0d3203a54cd788c5ecc157bcf",
+    "file": "assets/shop_flags/art/rocket.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:spider_web": {
+    "assetId": "132658908670785",
+    "sha256": "a192eb5d1df110e2ea775750523db28423a626cb5806b97c7ad51aa8e5576456",
+    "file": "assets/shop_flags/art/spider_web.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:rubber_duck": {
+    "assetId": "121719674219143",
+    "sha256": "003ccec86c6927e9390bb118c2554072cd0f33730d94e535010cc23d5aeca1f0",
+    "file": "assets/shop_flags/art/rubber_duck.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:thunder": {
+    "assetId": "70978780004488",
+    "sha256": "ef4359577be9a8ed9b1f357e2f2cfcd8796e4bd8b45ec489bef96a2e5451ebed",
+    "file": "assets/shop_flags/art/thunder.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:tornado": {
+    "assetId": "101721772311136",
+    "sha256": "f27406de03fed8a91a0b97ca6a75662dcef5f98398cf09766ebd4e0f847f61b7",
+    "file": "assets/shop_flags/art/tornado.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:volcano": {
+    "assetId": "83563480071926",
+    "sha256": "71776f0a14c2ed1cc0eb847b5062b31535e60d89bc5aeee7ed9706f107e6e054",
+    "file": "assets/shop_flags/art/volcano.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:warhead": {
+    "assetId": "132141749268951",
+    "sha256": "4c08e9c1f882607d4ac0aca20b819b99effce9f7c9787d93668284be7d9b9411",
+    "file": "assets/shop_flags/art/warhead.png",
+    "creatorUserId": "8318659852"
+  },
+  "flag:wolf_pack": {
+    "assetId": "112887665777394",
+    "sha256": "5be660ac6f9f0ddcbae2fc9d3ea5f100e6c586679dfe081cf3cfe39db31b23b9",
+    "file": "assets/shop_flags/art/wolf_pack.png",
+    "creatorUserId": "8318659852"
+  }
+}

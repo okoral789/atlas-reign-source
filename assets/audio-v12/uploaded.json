@@ -1,0 +1,393 @@
+{
+  "alarm.wav": {
+    "assetId": "134452167740470",
+    "sha256": "dc587f37724f2eb46b5e39dc6220a88aaf2e77a55e94bd2bc068978aa265b338",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/134452167740470",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:19.460Z",
+      "assetId": "134452167740470",
+      "displayName": "Atlas Reign alarm",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "build.wav": {
+    "assetId": "119908588208778",
+    "sha256": "26f7aa9530d53940a7822eff6f501d6b31a5df6aa4f58f2d5fb9e32233b31f4a",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/119908588208778",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:21.580Z",
+      "assetId": "119908588208778",
+      "displayName": "Atlas Reign build",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "cannon.wav": {
+    "assetId": "114967780021994",
+    "sha256": "8542529b7328953c55c911f5cc20d2b78d481a1c74ad09529b02a94bf23215ae",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/114967780021994",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:24.222Z",
+      "assetId": "114967780021994",
+      "displayName": "Atlas Reign cannon",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "click.wav": {
+    "assetId": "137973272954184",
+    "sha256": "c68e2052aa4d1a40f8ff1e9dabf537788da50eb79687a6ff2768e100ab209466",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/137973272954184",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:26.612Z",
+      "assetId": "137973272954184",
+      "displayName": "Atlas Reign click",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "confirm.wav": {
+    "assetId": "109724311360245",
+    "sha256": "11887bae217884279b135f195327f7b39d663777127e0a1c70e1ba8d3f5a9bb7",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/109724311360245",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:29.013Z",
+      "assetId": "109724311360245",
+      "displayName": "Atlas Reign confirm",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "conquer.wav": {
+    "assetId": "105694377750828",
+    "sha256": "69f603659f31be08fd31d1de5d5c23163f7de5c7b98324791837b8057df334d8",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/105694377750828",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:31.380Z",
+      "assetId": "105694377750828",
+      "displayName": "Atlas Reign conquer",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "defeat.wav": {
+    "assetId": "106987926983367",
+    "sha256": "5bc3c862e5d0681e97b95df7db8678159964fe99cb313d9d80b75c8942c95088",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/106987926983367",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:33.807Z",
+      "assetId": "106987926983367",
+      "displayName": "Atlas Reign defeat",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "deny.wav": {
+    "assetId": "103743446918239",
+    "sha256": "264834bdfdb4d4fb6e02247bd3f7cb3a098c173bef91c096f63f7d5a38065a20",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/103743446918239",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:36.102Z",
+      "assetId": "103743446918239",
+      "displayName": "Atlas Reign deny",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "emp.wav": {
+    "assetId": "138611599043694",
+    "sha256": "7403095f7da164e0550ebf3c73ee1abb0fe94eb179a76b379562e213c105e823",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/138611599043694",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:38.676Z",
+      "assetId": "138611599043694",
+      "displayName": "Atlas Reign emp",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "hover.wav": {
+    "assetId": "78534484859777",
+    "sha256": "983c7a304c298291870534af84b9242b6b974b624d1a56fc87098dc5b92201a7",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/78534484859777",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:40.894Z",
+      "assetId": "78534484859777",
+      "displayName": "Atlas Reign hover",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "impact.wav": {
+    "assetId": "109001098697082",
+    "sha256": "051918a6094b6f3ccdb6a373a93701fb4059a39e7df939e2dfdca42fd45fbdd1",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/109001098697082",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:43.331Z",
+      "assetId": "109001098697082",
+      "displayName": "Atlas Reign impact",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "launch.wav": {
+    "assetId": "72389390446274",
+    "sha256": "dc0a501ac5bedfb10e25d0aca2b5185f20bb13b03095297c046ad302b1a5fa21",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/72389390446274",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:45.740Z",
+      "assetId": "72389390446274",
+      "displayName": "Atlas Reign launch",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "naval.wav": {
+    "assetId": "100793141654330",
+    "sha256": "c049dedf733a0ff22530ca8238237d9a6dafe901ef5e40ff9596fcd1dd1e2819",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/100793141654330",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:48.166Z",
+      "assetId": "100793141654330",
+      "displayName": "Atlas Reign naval",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "nuke.wav": {
+    "assetId": "132968356470241",
+    "sha256": "e957d073348341a495b2b8203548af5f886c85229902eb4c12b9aa3234d56688",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/132968356470241",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:50.737Z",
+      "assetId": "132968356470241",
+      "displayName": "Atlas Reign nuke",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "pop.wav": {
+    "assetId": "77690265865363",
+    "sha256": "7c0366f25aa25110da0e6b20b28583926b2bd238058888496edc2537d6f48464",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/77690265865363",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:52.953Z",
+      "assetId": "77690265865363",
+      "displayName": "Atlas Reign pop",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "repair.wav": {
+    "assetId": "111098337553839",
+    "sha256": "1a04db82be88d7163de63d624f2ac37d5dc9755b5dbe1b2e5f01fef85c1a37fd",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/111098337553839",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:55.492Z",
+      "assetId": "111098337553839",
+      "displayName": "Atlas Reign repair",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  },
+  "victory.wav": {
+    "assetId": "116411341919324",
+    "sha256": "958bf10d5661dc889969560356cfc3f5405b2b8fc39906ffb5e11203d2f4ae80",
+    "creatorUserId": "8318659852",
+    "response": {
+      "path": "assets/116411341919324",
+      "revisionId": "1",
+      "revisionCreateTime": "2026-11-04T16:49:57.989Z",
+      "assetId": "116411341919324",
+      "displayName": "Atlas Reign victory",
+      "description": "Original sample-free Atlas Reign tactical sound design. CC0 1.0. Generator included in corresponding source.",
+      "assetType": "Audio",
+      "creationContext": {
+        "creator": {
+          "userId": "8318659852"
+        }
+      },
+      "moderationResult": {
+        "moderationState": "Reviewing"
+      },
+      "state": "Active"
+    }
+  }
+}
