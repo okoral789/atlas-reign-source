@@ -93,13 +93,13 @@ The owner supplied Case Portman Audio's full Cute & Cozy UI SFX Pack and its
 Royalty-Free Sound Effects License. That text permits game use, commercial
 projects, editing and inclusion in distributed projects; attribution is optional.
 It prohibits standalone redistribution of recordings and does not make them CC0.
-The private owner build uses 19 selected recordings for 20 existing cues. Original
+Atlas Reign uses 19 selected recordings for 20 existing cues. Original
 ZIP/WAV files, licence evidence, content hashes and Roblox upload records remain
 under ignored `build/cozy-ui-test/`, `build/cozy-ui-fixes/` and `build/camera-hud-audio/`. Elimination uses
 `Success_04` and construction `Confirm_09`, with playback trims of -6 and -4 dB.
-Missile launch now uses a separate CC BY 3.0 battle recording. The source evaluation manifest is data-empty
-and the public source build uses its existing original synthetic audio. This
-private audition is not a general public-release clearance for third-party audio.
+Missile launch uses a separate CC BY 3.0 battle recording. The public source
+includes the Roblox asset IDs for the licensed UI audio. The recordings
+themselves require a separate licence for reuse in another project.
 
 The owner selected launch C + explosion E on 2026-11-05. Those two lossless
 sources are Michel Baradari's `flaunch.wav` (4 projectile launches) and dklon's
@@ -108,6 +108,4 @@ jcpmcdonald's Skippy Fish Water Sound Collection, CC0 1.0. Author/source URLs,
 processing and hashes are in `assets/audio-cartoony/sources.json`; original
 CC BY files and the licence are included. Help & Credits names the authors,
 works, licences and edits. They are not Case Portman recordings.
-The rejected v35 Missile/Cartoon Explosion and subsequent A/B variants are no
-longer active. The exact private source checkpoint includes asset IDs for its
-licensed UI audition, not the paid recordings themselves.
+The rejected v35 Missile/Cartoon Explosion and subsequent A/B variants are inactive.

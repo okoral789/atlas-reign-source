@@ -280,7 +280,7 @@ HelpOverlay.LEGAL = {
 HelpOverlay.SOURCE_REPO = "Get the source code"
 HelpOverlay.SOURCE_TIP = {
 	title = "Source code",
-	body = "In the Roblox Creator Store, find Atlas Reign Source Kit v0.25.0 by Koralxok. The free kit contains the full source archive, build files and licence. Recipients may modify and redistribute the source under the GNU AGPL v3 and the additional terms in LICENSE.",
+	body = "Get the full source free. On the Atlas Reign game page, open the three-dot menu and choose Edit in Studio. In Explorer, open ServerStorage > AtlasReignSource and read Instructions. The archive includes the build files and licence. You may modify and redistribute it under the GNU AGPL v3 and the additional terms in LICENSE.",
 }
 HelpOverlay.SOURCE_TIP_S = 12.0
 
